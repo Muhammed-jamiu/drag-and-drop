@@ -12,3 +12,6 @@ function dDrop() {
     event.target.appendChild(holderItem);
   }
 }
+function checkDrop() {
+  console.log("Check isLogin");
+}
